@@ -5,8 +5,16 @@ In many Machine Learning (ML) communities, I have observed that many people are 
 ### To-do list 
 
 - [X] Binary Classification 
+   
+   * [Insomnia](https://www.kaggle.com/competitions/idao-2022-bootcamp-insomnia/overview)
+   * [Titanic](https://www.kaggle.com/c/titanic)
 - [ ] Multi-class Classification
+    * [Iris flower](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
+    * [BMI checker](https://www.kaggle.com/code/sabermohamed/bmi-checker-projet-kmeans)
 - [ ] Single-output Classification
+    * Coming soon
+    * Coming soon
 - [ ] Multi-output Classification 
-
+    * Coming soon
+    * Coming soon
 
