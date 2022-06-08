@@ -10,7 +10,7 @@ In many Machine Learning (ML) communities, I have observed that many people are 
    * [Titanic](https://www.kaggle.com/c/titanic)
 - [ ] Multi-class Classification
     * [Iris flower](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
-    * [BMI checker](https://www.kaggle.com/code/sabermohamed/bmi-checker-projet-kmeans)
+    * [Body performance data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
 - [ ] Single-output Classification
     * Coming soon
     * Coming soon
