@@ -11,10 +11,20 @@ In many Machine Learning (ML) communities, I have observed that many people are 
 - [ ] Multi-class Classification
     * [Iris flower](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
     * [Body performance data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
-- [ ] Single-output Classification
+- [ ] Single-output Regression
     * Coming soon
     * Coming soon
-- [ ] Multi-output Classification 
+- [ ] Multi-output Regression
     * Coming soon
     * Coming soon
 
+
+### The boring questions :/ 
+
+1) Why do we perform categorical feature encoding before data splitting?
+
+2) Why do we perform feature transformation after data splitting?
+
+3) Why do we deal with outliers first before imputing missing values?
+
+4) Why do we perform oversampling and undersampling after feature transformation and feature encoding?
