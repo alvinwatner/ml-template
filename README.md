@@ -9,8 +9,8 @@ In many Machine Learning (ML) communities, I have observed that many people are 
    * [Insomnia](https://www.kaggle.com/competitions/idao-2022-bootcamp-insomnia/overview)
    * [Titanic](https://www.kaggle.com/c/titanic)
 - [ ] Multi-class Classification
-    * [Iris flower](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
     * [Body performance data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
+    * [Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/overview)
 - [ ] Single-output Regression
     * Coming soon
     * Coming soon
