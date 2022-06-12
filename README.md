@@ -8,15 +8,16 @@ In many Machine Learning (ML) communities, I have observed that many people are 
    
    * [Insomnia](https://www.kaggle.com/competitions/idao-2022-bootcamp-insomnia/overview)
    * [Titanic](https://www.kaggle.com/c/titanic)
-- [ ] Multi-class Classification
-    * [Body performance data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
+   * [Diabetes](https://www.kaggle.com/datasets/kandij/diabetes-dataset)
+- [X] Multi-class Classification
+    * [Body Performance](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
     * [Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/overview)
 - [ ] Single-output Regression
-    * Coming soon
-    * Coming soon
+    * [Car price](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+    * [Second Hand Car price](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
+    * [Concrete Compressive Strength](https://www.kaggle.com/datasets/maajdl/yeh-concret-data)
 - [ ] Multi-output Regression
-    * Coming soon
-    * Coming soon
+    * [Possum](https://www.kaggle.com/datasets/abrambeyer/openintro-possum)
 
 
 ### The boring questions :/ 
