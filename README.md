@@ -32,3 +32,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > 2) Why do we perform feature transformation after data > splitting?
 > 3) Why do we deal with outliers first before imputing missing values?
 > 4) Why do we perform oversampling and undersampling after feature transformation and feature encoding?
+
+
+## Authors Info
+
+```
+----------------------------------------
+Author  : Alvin Setiadi
+Email   : alvinsetiadi22@gmail.com
+Website : alvinwatner.github.io/about
+License : MIT
+----------------------------------------
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
