@@ -27,9 +27,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
- > ### The boring questions :/ 
+ ### The boring questions 
+ List of questions that are often asked and debated in ML forums or community group :
 > 1) Why do we perform categorical feature encoding before data splitting?
-> 2) Why do we perform feature transformation after data > splitting?
+> 2) Why do we perform feature transformation after data splitting?
 > 3) Why do we deal with outliers first before imputing missing values?
 > 4) Why do we perform oversampling and undersampling after feature transformation and feature encoding?
 
