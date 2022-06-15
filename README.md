@@ -7,12 +7,6 @@ The application of Machine Learning (ML) to tabular data is one of the most popu
 
 The first one focuses on various techniques to achieve a specific step (for example, handling skewed features with log transformation), while the second refers to the entire workflow from loading data to evaluating the model. The second problem is crucial as performing the wrong step could lead to serious problems, such as information leakage or degraded performance. Additionally, to my knowledge, there has not been a dedicated attempt to address the second problem so far. Therefore, in this project, I created a notebook that provides a general workflow (a step-by-step process) to guide the process of model development for different predictive tasks, including classification and regression, that is capable of achieving decent metric scores across different datasets.
 
-# Previous Works
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-# Proposed Solution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### Tasks and Dataset 
 
 - [X] Binary Classification 
