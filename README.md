@@ -1,5 +1,11 @@
 # Introduction
-In many Machine Learning (ML) communities, I have observed that many people are often struggling with different problems which are actually rooted on the exact same problem. The main issue is not “how to perform this step?” but rather than “which step should be performed first?”. In addition, the existing tutorials and articles mostly cover different techniques to perform a specific step (for e.g., how to deal with imbalance class or skewed continuous features). Therefore, I proposed a template that provides a general workflow to guide the process of developing ML models for classification and regression tasks on tabular data in the Kaggle Competition setting. To my knowledge, this is the first notebook that is dedicated to establish the exact same workflow for various ML tasks.
+
+The application of Machine Learning (ML) to tabular data is one of the most popular tasks in the ML community because many areas (e.g., finance, medical) commonly use tabular data to store a set of information. The problems are mainly categorized into 2 parts: 
+
+1. How to perform a specific step? 
+2. Which step should be performed first? 
+
+The first one focuses on various techniques to achieve a specific step (for example, handling skewed features with log transformation), while the second refers to the entire workflow from loading data to evaluating the model. The second problem is crucial as performing the wrong step could lead to serious problems, such as information leakage or degraded performance. Additionally, to my knowledge, there has not been a dedicated attempt to address the second problem so far. Therefore, in this project, I created a notebook that provides a general workflow (a step-by-step process) to guide the process of model development for different predictive tasks, including classification and regression, that is capable of achieving decent metric scores across different datasets.
 
 # Previous Works
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
