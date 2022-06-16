@@ -1,11 +1,11 @@
 # Introduction
 
-The application of Machine Learning (ML) to tabular data is one of the most popular tasks in the ML community because many areas (e.g., finance, medical) commonly use tabular data to store a set of information. The problems are mainly categorized into 2 parts: 
+The application of Machine Learning (ML) to tabular data is one of the most popular tasks in the ML community because many areas (e.g., finance, medical) commonly use tabular data to store a set of information. The process of building an ML model for tabular data is often messy and less organized. This may intimidate newcomers in the ML community as the entire workflow seems to be vague and less-intuitive. Nevertheless, there are simply just 2 things that must be understood in order to build a good ML model for tabular data.:
 
 1. How to perform a specific step? 
 2. Which step should be performed first? 
 
-The first one focuses on various techniques to achieve a specific step (for example, handling skewed features with log transformation), while the second refers to the entire workflow from loading data to evaluating the model. The second problem is crucial as performing the wrong step could lead to serious problems, such as information leakage or degraded performance. Additionally, to my knowledge, there has not been a dedicated attempt to address the second problem so far. Therefore, in this project, I created a notebook that provides a general workflow (a step-by-step process) to guide the process of model development for different predictive tasks, including classification and regression, that is capable of achieving decent metric scores across different datasets.
+The first one focuses on various techniques to achieve a specific step (for example, how to handle skewed features with log transformation), while the second refers to the entire workflow of building an ML model for a specific dataset. The second point is crucial as performing the wrong workflow is prone to serious issues (e.g., information leakage or degraded performance). However, the existing learning resources out there often show different workflows when applied to different tasks or a specific dataset, while mainly just repeating a similar pattern. Therefore, in this project, I attempt to establish the **same workflow** in a **jupyter notebook** that can be used to solve various predictive tasks, including classification and regression. I also demonstrate that the notebook I created is capable of achieving decent metric scores across different datasets.
 
 ### Tasks and Dataset 
 
