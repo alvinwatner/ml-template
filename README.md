@@ -7,6 +7,13 @@ The application of Machine Learning (ML) to tabular data is one of the most popu
 
 The first one focuses on various techniques to achieve a specific step (for example, how to handle skewed features with log transformation), while the second refers to the entire workflow of building an ML model for a specific dataset. The second point is crucial as performing the wrong workflow is prone to serious issues (e.g., information leakage or degraded performance). However, the existing learning resources out there often show different workflows when applied to different tasks or a specific dataset, while mainly just repeating a similar pattern. Therefore, in this project, I attempt to establish the **same workflow** in a **jupyter notebook** that can be used to solve various predictive tasks, including classification and regression. I also demonstrate that the notebook I created is capable of achieving decent metric scores across different datasets.
 
+### Knowledge Requirement
+
+This project assumes you have knowledge on:
+* categorical features encoding
+* a basic python
+* a basic statistic
+
 ### Tasks and Dataset 
 
 - [X] Binary Classification 
