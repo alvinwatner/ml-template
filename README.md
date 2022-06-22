@@ -18,15 +18,27 @@ This project assumes you have knowledge on:
 
 - [X] Binary Classification 
    
-   * [Insomnia](https://www.kaggle.com/competitions/idao-2022-bootcamp-insomnia/overview)
-   * [Titanic](https://www.kaggle.com/c/titanic)
+   * Insomnia
+     * [dataset](https://www.kaggle.com/competitions/idao-2022-bootcamp-insomnia/overview)
+     * [colab](https://colab.research.google.com/drive/1Z9bVwPLiHAah6q2XXJMm2DYRaVqC5CS5?usp=sharing)
+   * Titanic
+     * [dataset](https://www.kaggle.com/c/titanic)
+     * [colab](https://colab.research.google.com/drive/13UaU63hnOZGDUH46JeX4dMRBm0skY0bY?usp=sharing)
 
 - [X] Multi-class Classification
-    * [Body Performance](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
-    * [Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/overview)
+    * Body Performance
+       * [dataset](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
+       * [colab](https://colab.research.google.com/drive/1vmqCNE-ilJGKHPMHvFfRWrRe1kl0jEm-?usp=sharing)  
+    * Ghouls, Goblins, and Ghosts... Boo!
+       * [dataset](https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/overview)
+       * [colab](https://colab.research.google.com/drive/1VmI21-cySnWIV-3EjyfaAfy9tP_PRkPI?usp=sharing)  
 - [X] Single-output Regression
-    * [Concrete Compressive Strength](https://www.kaggle.com/datasets/maajdl/yeh-concret-data)
+    * Concrete Compressive Strength
+        * [dataset](https://www.kaggle.com/datasets/maajdl/yeh-concret-data)
+        * [colab](https://colab.research.google.com/drive/1gz6vW-J4NZ-nWy7ce-BEZPO3whrNt2Nn?usp=sharing)  
     * [Car price](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+        * [dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+        * [colab](https://colab.research.google.com/drive/1F4Jy2r4SNiEvBYjxBYbc9B5HFdDQdTtv?usp=sharing)  
 
 
 
