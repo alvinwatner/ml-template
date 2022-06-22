@@ -40,9 +40,22 @@ This template assumes you have knowledge on:
         * [dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
         * [colab](https://colab.research.google.com/drive/1F4Jy2r4SNiEvBYjxBYbc9B5HFdDQdTtv?usp=sharing)  
 
+## Template Workflow
 
-
-
+The established workflow consists of 13 number of steps :
+* step 1 : install all dependencies
+* step 2 : import all libraries
+* step 3 : store any utility function here
+* step 4 : load the dataset
+* step 5 : take a peek on the subset of data
+* step 6 : drop useless features
+* step 7 : show data description
+* step 8 : categorical features encoding 
+* step 9 : split train data
+* step 10 : features visualization
+* step 11 : data modelling
+* step 12 : visualize features importance
+* step 13 : prepare for submission 
 
  ### The boring questions 
  List of questions that are often asked and debated in ML forums or community group :
