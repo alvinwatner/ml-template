@@ -9,7 +9,7 @@ The first one focuses on various techniques to achieve a specific step (for exam
 
 ### Knowledge Requirement
 
-This project assumes you have knowledge on:
+This template assumes you have knowledge on:
 * categorical features encoding
 * a basic python
 * a basic statistic
