@@ -36,7 +36,7 @@ This template assumes you have knowledge on:
     * Concrete Compressive Strength
         * [dataset](https://www.kaggle.com/datasets/maajdl/yeh-concret-data)
         * [colab](https://colab.research.google.com/drive/1gz6vW-J4NZ-nWy7ce-BEZPO3whrNt2Nn?usp=sharing)  
-    * [Car price](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+    * Car price
         * [dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
         * [colab](https://colab.research.google.com/drive/1F4Jy2r4SNiEvBYjxBYbc9B5HFdDQdTtv?usp=sharing)  
 
