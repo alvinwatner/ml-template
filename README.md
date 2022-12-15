@@ -42,7 +42,7 @@ This template assumes you have knowledge on:
 
 ## Machine Learning Workflow
 
-The established workflow in this notebook consists of 13 number of steps :
+This is the established workflow that remains the same for various problems and datasets :
 * step 1 : install all dependencies
 * step 2 : import all libraries
 * step 3 : store any utility function here
