@@ -10,13 +10,9 @@ The first one focuses on various techniques to achieve a specific step (for exam
 ### Knowledge Requirement
 
 This template assumes you have knowledge on:
-* categorical features encoding
 * a basic python
 * a basic statistic
 
-### Usage
-
- > coming soon
 
 ### Tasks and Dataset 
 
@@ -44,9 +40,9 @@ This template assumes you have knowledge on:
         * [dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
         * [colab](https://colab.research.google.com/drive/1F4Jy2r4SNiEvBYjxBYbc9B5HFdDQdTtv?usp=sharing)  
 
-## Template Workflow
+## Machine Learning Workflow
 
-The established workflow consists of 13 number of steps :
+The established workflow in this notebook consists of 13 number of steps :
 * step 1 : install all dependencies
 * step 2 : import all libraries
 * step 3 : store any utility function here
